@@ -27,3 +27,6 @@ The Summer Camp Management System is a collaborative project developed by a team
 **Testing:**
    - Extensive testing has been conducted to ensure the system's reliability and functionality.
    - You can run additional tests to verify the system's performance.
+
+**UI Demo**
+   - https://www.youtube.com/watch?v=zzf8TTi_F1E
